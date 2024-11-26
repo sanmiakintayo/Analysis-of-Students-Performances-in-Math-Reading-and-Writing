@@ -3,12 +3,11 @@
 Analysed performance in key subjects and how factors such as preparation, family background, and socioeconomic factors affect students' performance.
 ![Screenshot 2024-11-26 003033x](https://github.com/user-attachments/assets/99c77d91-8751-44fb-899f-af8203065c2e)
 ### Objectives
-- Understand Sales Performance: Assess overall sales performance over the two years.
-- Identify Best-Selling Products: Determine which products and categories are the top sellers.
-- Profitability Analysis: Analyze profit margins and identify the most profitable products and categories.
-- Sales Volume Analysis: Examined the sales volume across different periods and sales avenues.
-- Payment Mode Preferences: Discover trends in customer payment modes.
-- Sales Method Effectiveness: Compare the effectiveness of different sales methods (direct, online, and wholesale).
+This analysis aims to evaluate the impact of various socio-demographic factors on student performance in Math, Reading, and Writing. Specifically, the study aims to:
+- Assess Performance Disparities: Identify and quantify any disparities in test scores based on gender, parents' education level, and lunch type (standard vs. reduced).
+- Examine Preparation Courses Impact: Determine whether completion of preparation courses significantly influences student performance across the three subjects.
+- Analyze Interactions: Explore potential interactions between socio-demographic factors and their combined effect on student performance.
+- Provide Insights for Educational Interventions: Generate actionable insights that can inform educational interventions aimed at improving student outcomes and promoting equity in education.
 ### Methods
 -	Data was obtained from Data.gov
 -	Data cleaning and transformation were  done with PowerQuery
