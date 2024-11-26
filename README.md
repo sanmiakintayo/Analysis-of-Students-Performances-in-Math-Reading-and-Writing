@@ -42,4 +42,4 @@ Analysed performance in key subjects and how factors such as preparation, family
 - Payment Mode Shifts: Changes or shifts in the preferred payment modes over time were monitored.
 - Sales Method Shifts: Trends in the preferred sales methods (direct, online, wholesale) were tracked.
 - Profitability Trends: Profitability trends across different products and categories were monitored.
-![Screenshot 2024-11-26 003539x](https://github.com/user-attachments/assets/202057ec-9676-4360-afd5-407bee00bed9)
+![Screenshot 2024-11-26 003539x](https://github.com/user-attachments/assets/537593b9-763d-450e-973e-ad1e24431ec8)
