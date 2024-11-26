@@ -1,4 +1,4 @@
-# Products Sales Analysis
+# Students Performance Analysis
 ### Project Overview
 Analysed performance in key subjects and how factors such as preparation, family background, and socioeconomic factors affect students' performance.
 ![Screenshot 2024-11-26 003033x](https://github.com/user-attachments/assets/99c77d91-8751-44fb-899f-af8203065c2e)
@@ -34,10 +34,7 @@ Analysed performance in key subjects and how factors such as preparation, family
 - Sales Channel Effectiveness: Understanding of which sales methods are most successful in generating sales and profit.
 - Profit Margins: Analysis of products and categories offer the highest profit margins was carried out.
 - Customer Behavior: Evaluated how customers interact with different sales methods and payment modes.
-
-### Margin by Category
-![Screenshot 2024-11-26 003539x](https://github.com/user-attachments/assets/e96d487d-f4c3-48d0-8bc5-f4aa5e37d971)
-
+![Screenshot 2024-11-26 003127x](https://github.com/user-attachments/assets/027c83e9-034d-42e9-855c-ab566fed1e71)
 ### Trends
 - Year-over-Year Growth: The growth rate of sales and profits over the two years were assessed.
 - Monthly Sales Patterns: Recurring monthly sales patterns and trends identified.
@@ -45,8 +42,4 @@ Analysed performance in key subjects and how factors such as preparation, family
 - Payment Mode Shifts: Changes or shifts in the preferred payment modes over time were monitored.
 - Sales Method Shifts: Trends in the preferred sales methods (direct, online, wholesale) were tracked.
 - Profitability Trends: Profitability trends across different products and categories were monitored.
-### Sales by Year
-![Screenshot 2024-11-11 013637x](https://github.com/user-attachments/assets/67df53d1-1bc0-472b-99c1-387c1a2335c3)
-
-### Further Sales Analysis by Year and Products
-![Screenshot 2024-11-11 005900Xx](https://github.com/user-attachments/assets/a8c0a3c4-1620-4b20-80e5-159412d54e8c)
+![Screenshot 2024-11-26 003539x](https://github.com/user-attachments/assets/202057ec-9676-4360-afd5-407bee00bed9)
