@@ -14,6 +14,15 @@ This analysis aims to evaluate the impact of various socio-demographic factors o
 -	Data modelling was done in PowerBI
 -	Data analyses were done with Excel,  PowerBI, SQL
 -	Data visualisation, reports and dashboards were done with PowerBI
+
+### Example SQL Queries 
+#### Query to determine the highest score in each of the three subjects
+![Screenshot 2024-11-26 141728xx](https://github.com/user-attachments/assets/89a41c92-7724-41d5-87f8-210e05c17c16)
+![Screenshot 2024-11-26 141728xxx](https://github.com/user-attachments/assets/3c8c4462-68a2-4b6e-9093-381d657dc5f4)
+#### Query to retrieve the list of students who scored 98 or above in Maths 
+- And their scores in Reading and Writing as well as information about their StudentID, Gender, Race/Ethnicity and Parents' education level.
+
+![Screenshot 2024-11-26 142949xx](https://github.com/user-attachments/assets/40cf4197-0afb-4b90-92d7-b3051acf6106)
 ## Key Insights
 ### Average Performance
 ![Screenshot 2024-11-26 003127x](https://github.com/user-attachments/assets/027c83e9-034d-42e9-855c-ab566fed1e71)
