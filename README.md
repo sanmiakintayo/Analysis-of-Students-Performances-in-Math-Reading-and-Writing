@@ -1,4 +1,4 @@
-# Students Performance Analysis
+# Analysis of Students' Performance in Math, Reading and Writing
 ## Project Overview
 This comprehensive analysis aims to evaluate student performance in Maths, Reading, and Writing based on various socio-demographic factors, including gender, parental education level, lunch type, race, and completion of preparation courses. The goal is to identify trends, disparities, and areas for targeted educational interventions to improve student outcomes.
 ![Screenshot 2024-11-26 003033x](https://github.com/user-attachments/assets/99c77d91-8751-44fb-899f-af8203065c2e)
